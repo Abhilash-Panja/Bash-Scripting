@@ -16,3 +16,4 @@ echo $PWD
 #-----------user-defined-varibles--------------#
 name=Abhilash
 echo Name is $name
+
